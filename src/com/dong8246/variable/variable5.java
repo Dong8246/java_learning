@@ -1,7 +1,8 @@
 package com.dong8246.variable;
+//计算BMI：体重/身高的平方
+
 import java.util.Scanner;
 public class variable5 {
-    //计算BMI：体重/身高的平方
     public static void main(String[] args){
     Scanner sc = new Scanner (System.in);
     System.out.println("请输入体重：");
