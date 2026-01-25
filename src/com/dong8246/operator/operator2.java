@@ -1,6 +1,6 @@
-package com.dong8246.variable;
+package com.dong8246.operator;
 //运算符的计算
-public class variable6 {
+public class operator2 {
     public static void main(String[] args){
         //整数之间的运算
         int a = 10;

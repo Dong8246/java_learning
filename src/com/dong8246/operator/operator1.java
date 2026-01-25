@@ -1,7 +1,7 @@
-package com.dong8246.variable;
+package com.dong8246.operator;
 //键盘输入并求和：输入两个整数类型变量并求和，输出求和后的结果
-import java.util.Scanner;
-public class variable4 {
+
+public class operator1 {
     public static void main(String[] args){
         java.util.Scanner sc  = new java.util.Scanner(System.in);
         System.out.println("请输入两个整数：");

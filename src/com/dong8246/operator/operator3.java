@@ -1,7 +1,7 @@
-package com.dong8246.variable;
+package com.dong8246.operator;
 //输入一个三位数，分别输出个位、十位、百位
 import java.util.Scanner;
-public class variable7 {
+public class operator3 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("请输入一个三位数：");

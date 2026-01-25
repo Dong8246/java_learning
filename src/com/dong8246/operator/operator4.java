@@ -1,7 +1,7 @@
-package com.dong8246.variable;
+package com.dong8246.operator;
 //时间转换，把秒数转化为时、分、秒并输出
 import java.util.Scanner;
-public class variable8 {
+public class operator4 {
     public static void main(String[] args){
         Scanner sc = new Scanner (System.in);
         int num = sc.nextInt();
