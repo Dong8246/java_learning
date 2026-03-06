@@ -9,8 +9,6 @@ public class ArrayDemo1 {
         int [] ages = {18,19,20};
         double [] heights = {1.68,1.70,1.75};
         String [] name = {"张三","李四","王五"};
-        System.out.println(ages[0]);
-        System.out.println(heights[0]);
-        System.out.println(name[0]);
+
     }
 }
